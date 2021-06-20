@@ -1,0 +1,16 @@
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\ModelEF.dll.config
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\ModelEF.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\ModelEF.pdb
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\EntityFramework.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\EntityFramework.xml
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\obj\Debug\ModelEF.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\obj\Debug\ModelEF.pdb
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\PagedList.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\PagedList.Mvc.dll
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\PagedList.xml
+E:\Học tập\Năm 3\C#\CuoiKy\PhamTuan\ModelEF\bin\Debug\PagedList.Mvc.xml

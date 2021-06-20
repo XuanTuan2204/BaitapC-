@@ -1,0 +1,159 @@
+﻿
+@{
+    ViewBag.Title = "Trang Chủ";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section Header{
+    <i class="fa fa-home"></i>&nbsp;Trang Chủ
+}
+
+    <div class="form-group">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="mini-stat clearfix">
+                    <span class="mini-stat-icon orange"><i class="fa fa-gavel"></i></span>
+                    <div class="mini-stat-info">
+                        <span>320</span>
+                        New Order Received
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="mini-stat clearfix">
+                    <span class="mini-stat-icon tar"><i class="fa fa-tag"></i></span>
+                    <div class="mini-stat-info">
+                        <span>22,450</span>
+                        Copy Sold Today
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="mini-stat clearfix">
+                    <span class="mini-stat-icon pink"><i class="fa fa-money"></i></span>
+                    <div class="mini-stat-info">
+                        <span>34,320</span>
+                        Dollar Profit Today
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="mini-stat clearfix">
+                    <span class="mini-stat-icon green"><i class="fa fa-eye"></i></span>
+                    <div class="mini-stat-info">
+                        <span>32720</span>
+                        Unique Visitors
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <section class="panel">
+                    <div class="wdgt-row">
+                        <img src="~/Assets/Admin/images/weather_image.jpg" height="243" alt="">
+                        <div class="wdt-head">
+                            weather forecast
+                        </div>
+                        <div class="country-select">
+                            <select class="styled">
+                                <option>Đà Nẵng</option>
+                                <option>New York </option>
+                                <option>London </option>
+                                <option>Australia </option>
+                                <option>China </option>
+                                <option>Canada </option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row weather-full-info">
+                            <div class="col-md-3 today-status">
+                                <h1>Today</h1>
+                                <i class=" ico-cloudy "></i>
+                                <div class="degree">37</div>
+                            </div>
+                            <div class="col-md-9">
+                                <ul>
+                                    <li>
+                                        <h2>Tomorrow</h2>
+                                        <i class=" ico-cloudy text-primary"></i>
+                                        <div class="statistics">32</div>
+                                    </li>
+                                    <li>
+                                        <h2>Mon</h2>
+                                        <i class=" ico-rainy2 text-danger"></i>
+                                        <div class="statistics">40</div>
+                                    </li>
+                                    <li>
+                                        <h2>Tue</h2>
+                                        <i class=" ico-lightning3 text-info"></i>
+                                        <div class="statistics">25</div>
+                                    </li>
+                                    <li>
+                                        <h2>Wed</h2>
+                                        <i class=" ico-sun3 text-success"></i>
+                                        <div class="statistics">37</div>
+                                    </li>
+                                    <li>
+                                        <h2>Thu</h2>
+                                        <i class=" ico-snowy3 text-warning"></i>
+                                        <div class="statistics">15</div>
+                                    </li>
+                                    <li>
+                                        <h2>Fri</h2>
+                                        <i class=" ico-cloudy "></i>
+                                        <div class="statistics">21</div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="col-md-4">
+                <div class="profile-nav alt">
+                    <section class="panel">
+                        <div class="user-heading alt clock-row terques-bg">
+                            <h1>December 14</h1>
+                            <p class="text-left">2014, Friday</p>
+                            <p class="text-left">7:53 PM</p>
+                        </div>
+                        <ul id="clock">
+                            <li id="sec"></li>
+                            <li id="hour"></li>
+                            <li id="min"></li>
+                        </ul>
+                        <ul class="clock-category">
+                            <li>
+                                <a href="#" class="active">
+                                    <i class="ico-clock2"></i>
+                                    <span>Clock</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ico-alarm2 "></i>
+                                    <span>Alarm</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ico-stopwatch"></i>
+                                    <span>Stop watch</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class=" ico-clock2 "></i>
+                                    <span>Timer</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+

@@ -1,0 +1,32 @@
+﻿ <!--sidebar start-->
+<aside >
+    <div id="sidebar" class="nav-collapse" style="background: #FFFFFF; ">
+        <!-- sidebar menu start-->
+        <div class="leftside-navigation">
+            <ul class="sidebar-menu" id="nav-accordion">
+                
+                <li class="sub-menu">
+                    <a href="javascript:;" style="background: #1262dc">
+                        <i class="fa fa-user"></i>
+                        <span>QUẢN LÝ (Admin)</span>
+                    </a>
+                    <ul class="sub">
+                        <li style="background:rgb(234, 241, 241)"><a href="@Url.Action("Index","Products")"><i class="fa fa-folder-open-o"></i>Sản Phẩm</a></li>
+                        <li style="background:rgb(234, 241, 241)"><a href="@Url.Action("Index","User")"><i class="fa fa-user"></i>Quản Lý Người Dùng</a></li>
+                    </ul>
+                </li>
+                <li class="sub-menu">
+                    <a href="javascript:;" style="background: #1262dc">
+                        <i class="fa fa-book"></i>
+                        <span>NGƯỜI DÙNG (Client)</span>
+                    </a>
+                    <ul class="sub">
+                        <li style="background:rgb(234, 241, 241)"><a href="~/Client/BanHang/Index"><i class="fa fa-folder-open-o"></i>Trang Bán Hàng</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- sidebar menu end-->
+    </div>
+</aside>
+<!--sidebar end-->
